@@ -1,4 +1,4 @@
-# Mood Hub 😄
+# Mood Hub 
 
 A simple mood tracker that runs in the browser. Pick how you feel, add an optional note, and watch your history and stats grow.
 
